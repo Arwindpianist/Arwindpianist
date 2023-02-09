@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arwindpianist
-- 👀 I’m interested in Apps and Cryptocurrency
+- 👀 I’m interested in Web Development and Cryptocurrencies
 - 🌱 I’m currently learning Diploma in ICT with Specialism in Software Engineering
 - 💞️ I’m looking to collaborate on App building and generating new ideas
 - 📫 How to reach me = Instagram: https://www.instagram.com/arwindpianist/, Email: Arwindpianist@gmail.com
