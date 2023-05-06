@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Arwind, a web developer and cryptocurrency enthusiast based in Malaysia. I'm currently pursuing a Diploma in ICT with a specialism in Software Engineering.
+I'm Arwin, a web developer and cryptocurrency enthusiast based in Malaysia. I'm currently pursuing a Diploma in ICT with a specialism in Software Engineering.
 
 ## About Me
 
