@@ -35,7 +35,7 @@
 ## 🚀 Featured Projects
 
 ### Web Development
-▶ [Portfolio 2025](https://github.com/Arwindpianist?tab=repositories)  
+▶ [Portfolio 2025](https://arwindpianist.store/projects)  
 Modern developer portfolio with React + Tailwind CSS showcase
 
 ▶ [Node.js Auth API](https://github.com/Arwindpianist?tab=repositories)  
@@ -46,8 +46,13 @@ Secure authentication system with JWT & Redis
 Cross-platform shopping app with Firebase integration
 
 ### Music & Multimedia
-▶ [Music Production Toolkit](https://github.com/Arwindpianist?tab=repositories)  
+▶ [Music Production Toolkit](https://label.arwindpianist.store) 
 Digital audio workstation plugins & samples collection
+
+### TypeScript Tutor  
+▶ [TypeScript Tutor Website](https://typescript.arwindpianist.store)  
+An interactive learning platform designed to help developers master TypeScript with hands-on examples and guided lessons.  
+Covers beginner to advanced concepts, type safety patterns, and real-world application development tips.
 
 ## 💼 Our Services
 
